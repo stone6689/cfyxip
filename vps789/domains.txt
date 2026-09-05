@@ -172,7 +172,6 @@ ip.skk.moe
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
 singapore.com
-www.postman.com
 www.dentoncounty.gov
 constitution.congress.gov
 virtualcommtraining.verizon.com
@@ -182,6 +181,7 @@ leawo.org
 builtbybuffalo.com
 www.petronaftco.com
 pure.coupert.com
+youxuan.cf.636949.xyz
 yg13.ygkkk.dpdns.org
 cloudflare.468123.xyz
 dongbanghong.com
@@ -193,8 +193,8 @@ cloudflare.19931110.xyz
 ip.sb
 www.epicgames.com
 japan.com
+www.postman.com
 www.hugedomains.com
 mvnrepository.com
 networksolutions.com
 duggal.com
-videodelivery.net
