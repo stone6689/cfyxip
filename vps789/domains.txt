@@ -24,7 +24,6 @@ yg1.ygkkk.dpdns.org
 cdns.doon.eu.org
 cf-cname.xingpingcn.top
 www.shopify.com
-www.leics.police.uk
 pwjbl.me
 vip.cf.3666888.xyz
 cf.cf.3666888.xyz
@@ -37,10 +36,8 @@ test.509666.xyz
 www.carousell.sg
 www.dg22.top
 prizepicks.com
-cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
 coke.cf.3666888.xyz
-cloudflare-ip.mofashi.ltd
 openai.com
 cu.877774.xyz
 b3.cfyx.20237737.xyz
@@ -48,6 +45,7 @@ staticdelivery.nexusmods.com
 linear.app
 www.jimdo.com
 m.iyf.tv
+www.leics.police.uk
 cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com
 qocu.cf.3666888.xyz
@@ -60,8 +58,10 @@ uspto.gov
 cf.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com
+cfip-avg.stoeaves.us.ci
 edgeone.gh-proxy.org
 w3.org
+cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz
 dnew.cc
@@ -124,8 +124,6 @@ china-unicom.cname.cloudflare.468123.xyz
 www.udacity.com
 bestcfv4.030101.xyz
 cf.130519.xyz
-www.dentoncounty.gov
-sourceforge.net
 www.crazygames.fr
 ikankeji.com
 securecircle.com
@@ -148,10 +146,10 @@ cnamefuckxxs.yuchen.icu
 cmcc.090227.xyz
 dash.cloudflare.com
 v.recipes
-ip.skk.moe
 dogechain.info
 www.5199dy.com
 www.libvio.site
+sourceforge.net
 rocketreach.co
 codeforces.com
 www.doiting.com
@@ -170,12 +168,14 @@ worldvectorlogo.com
 digitalocean.com
 time.is
 www.ntu.edu.sg
-www.visa.com.sg
+ip.skk.moe
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
 singapore.com
 www.postman.com
+www.dentoncounty.gov
 constitution.congress.gov
+virtualcommtraining.verizon.com
 www.sage.com
 packtpub.com
 leawo.org
@@ -183,6 +183,7 @@ builtbybuffalo.com
 www.petronaftco.com
 pure.coupert.com
 yg13.ygkkk.dpdns.org
+cloudflare.468123.xyz
 dongbanghong.com
 yd.hhhhh.eu.org
 alternativeto.net
@@ -193,8 +194,7 @@ ip.sb
 www.epicgames.com
 japan.com
 www.hugedomains.com
-virtualcommtraining.verizon.com
 mvnrepository.com
 networksolutions.com
-mogas.com
+duggal.com
 videodelivery.net
