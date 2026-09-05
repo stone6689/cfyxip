@@ -61,7 +61,6 @@ www.sloomb.com
 cfip-avg.stoeaves.us.ci
 edgeone.gh-proxy.org
 w3.org
-cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz
 dnew.cc
@@ -76,20 +75,21 @@ www.bangbenjiaju.com
 greim.no
 markmonitor.com
 www.blibli.com
-www.akasantech.com
 cfip-cm.stoeaves.us.ci
 oo.xzhi.eu.org
 images.chesscomfiles.com
-yxip.xxxxxxxx.tk
+cloudflare-ip.mofashi.ltd
 store.ubi.com
 yg2.ygkkk.dpdns.org
 www.mfyx.cn
 cdn.091224.xyz
 cfgo.timelate.com
 ct.721660.xyz
+www.akasantech.com
 cf.xreak.top
 www.visa.com.hk
 www.visa.com
+yxip.xxxxxxxx.tk
 fn.130519.xyz
 redis.io
 guide.for.edu.sg
@@ -124,7 +124,6 @@ china-unicom.cname.cloudflare.468123.xyz
 www.udacity.com
 bestcfv4.030101.xyz
 cf.130519.xyz
-www.crazygames.fr
 ikankeji.com
 securecircle.com
 cmcc.hw.090227.xyz
@@ -152,6 +151,7 @@ www.libvio.site
 sourceforge.net
 rocketreach.co
 codeforces.com
+www.crazygames.fr
 www.doiting.com
 cfyx.qdqqd.com
 111.cf.cname.vvhan.com
