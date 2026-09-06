@@ -111,7 +111,6 @@ unpkg.com
 themeisle.com
 yg12.ygkkk.dpdns.org
 www.broadcom.com
-cdn.2x.nz
 www.xflash.vip
 www.vastnovel.com
 cf.92555.xyz
@@ -133,6 +132,7 @@ securecircle.com
 cmcc.hw.090227.xyz
 investor.apple.com
 zen-browser.app
+cdn.2x.nz
 cfip-cu.stoeaves.us.ci
 131.youxuan.cf.090227.xyz
 zabc.net
