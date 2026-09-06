@@ -106,7 +106,6 @@ cfgo.timelate.com
 cdn.fiatnorm.us.kg
 www.elysee.fr
 www.acces-maroc.ma
-tuite-c0f.pages.dev
 www.udacity.com
 cf.877771.xyz
 cfyx.aliyun.20237737.xyz
@@ -118,6 +117,7 @@ fw8je9.cf.3666888.xyz
 6.cf.3666888.xyz
 hzytjy.cn
 cloudflare.468123.xyz
+tuite-c0f.pages.dev
 ctsg.cfyx.aliyun.20237737.xyz
 chrono24.com
 cfip-cu.stoeaves.us.ci
