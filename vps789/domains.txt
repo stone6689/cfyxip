@@ -129,7 +129,6 @@ japan.com
 debot.ai
 cloudflare.tv
 mvnrepository.com
-packtpub.com
 store.epicgames.com
 pure.coupert.com
 yg13.ygkkk.dpdns.org
@@ -149,6 +148,7 @@ yg12.ygkkk.dpdns.org
 www.gov.il
 alternativeto.net
 www.epicgames.com
+packtpub.com
 shen6011.pages.dev
 bestcf.top
 cloudflare.cfgo.cc
@@ -161,7 +161,6 @@ www.doiting.com
 moondroplab.com
 run.254301.xyz
 china-mobile.cname.cloudflare.468123.xyz
-cf1.v8.longsays.com
 api.cloudflare.com
 zen-browser.app
 linkvertise.com
@@ -174,6 +173,7 @@ www.whoer.net
 help.kolet.com
 cfdl.3666888.xyz
 challenges.cloudflare.com
+cf1.v8.longsays.com
 cdnjs.loli.net
 blog.cloudflare.com
 cnamefuckxxs.yuchen.icu
