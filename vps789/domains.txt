@@ -119,6 +119,7 @@ fw8je9.cf.3666888.xyz
 hzytjy.cn
 cloudflare.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz
+chrono24.com
 cfip-cu.stoeaves.us.ci
 vps.cheng2001.top
 edgeone.gh-proxy.org
@@ -146,7 +147,6 @@ test.509666.xyz
 yg12.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 www.gov.il
-chrono24.com
 alternativeto.net
 www.epicgames.com
 shen6011.pages.dev
